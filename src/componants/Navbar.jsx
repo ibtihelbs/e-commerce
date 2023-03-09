@@ -47,6 +47,9 @@ const MenuItem = styled.div`
    font-size: 14px;
    cursor: pointer
 `;
+/**  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+ */
 const Navbar = () => {
   return (
     <Container>
